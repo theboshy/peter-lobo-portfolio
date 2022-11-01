@@ -1,0 +1,21 @@
+{
+  "name": "theboshy_",
+  "real-name": "peter_lobo_",
+  "resume": "<phrase>Am a <remarkColor>Full Stack Developer</remarkColor>, creating quality applications  efficiently for about 5 years <remarkColorClickable>/contact me</remarkColorClickable></phrase>",
+  "nav-bar-options": {
+    "main": "/main",
+    "about": "/about me",
+    "projects": "/works"
+  },
+  "perlin-noise-controls": {
+    "name": "Noise Controls",
+    "vertex-height-range": "vertex height",
+    "vertex-quantity": "vertex multiplier",
+    "flying-speed": "creation speed"
+  },
+  "social-media-links": {
+    "github": "https://github.com/theboshy",
+    "linked-in": "https://www.linkedin.com/in/peter-lobo/",
+    "stack-over-flow": "https://es.stackoverflow.com/users/9206/theboshy?tab=profile"
+  }
+}

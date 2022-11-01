@@ -1,0 +1,33 @@
+.language-selector-color {
+    background-color: transparent;
+    border-color: transparent;
+}
+.language-selector-color:hover {
+    background-color: transparent;
+    border-color: transparent;
+}
+.language-selector-color:active {
+    background-color: transparent;
+    border-color: transparent;
+}
+.select-options {
+    background-color: #44475A;
+    color: white;
+}
+.select-option:hover {
+    background-color: transparent;
+    color: #cad4b6;
+}
+
+a:hover {
+    color: #cad4b6 !important;
+    text-decoration: none !important;
+    background-color: transparent !important;
+    font-weight: bold !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #F8F8F2;
+    text-decoration: none;
+    background-color: #8A8E8C;
+}

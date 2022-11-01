@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #282A36 !important;
+  overflow: hidden;
+}
+
+code {
+  font-family: 'Inter', sans-serif
+}
+
+:root { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  :root { font-family: 'Inter var', sans-serif; }
+}
+
+.clickable-content:hover {
+  /*cursor: url("/public/images/click.png"),auto;*/
+  cursor: pointer;
+  fill: #cad4b6 !important;
+}
+
+.normal-aliment-center {
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  display: flex;
+}
+
+.vertical-aliment-center {
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.full-size-container {
+  height: calc(100vh - 100px);
+  width: 100vh;
+}
+
+.big-text {
+  font-size: 4.5vh;
+  font-weight: bold;
+}
+
+.title-text {
+  font-size: 5vh;
+  font-weight: bold;
+}
+
+.sub-title-text {
+  font-size: 3.6vh;
+  font-weight: bold;
+}
+
+.normal-text {
+  font-size: 2.6vh;
+  font-weight: normal;
+}
+
+.small-text {
+  font-size: 1.5vh;
+  font-weight: normal;
+}
+
+.medium-text {
+  font-size: 2.5vh;
+  font-weight: normal;
+}
+
+.background-color {
+  background-color: #282A36 !important;
+}
+
+.strong-text {
+  font-weight: 600;
+}
+
+.foreground-text {
+  color: #F8F8F2 !important;
+}
+
+.foreground-text-remark {
+  color: #cad4b6  !important;
+}
+
+.foreground-fill-color {
+  fill: #F8F8F2;
+  font-family: 'Inter', sans-serif;
+}
+
+.normal-spacing {
+  padding: 2rem;
+}
+
+.min-spacing {
+  padding: 1em;
+}
+
+.normal-multiple-spacing {
+  padding: 1em;
+}
